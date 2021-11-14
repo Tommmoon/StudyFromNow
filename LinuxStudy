@@ -1,0 +1,27 @@
+Linux include VIM, Shell, etc.
+learn VIM:
+three mode: normal; edit; command
+In normal mode, h means ←; j means ↓; k means ↑; l means →.
+yy means yank(copy) a line; dd means delete a line.
+nG means go to n lines;
+
+Input i into edit mode;
+In normal mode, edit this files;
+
+Press ESC back to normal mode;
+
+Input : into command mode;
+:wq means write and quit;
+:q and :q! means quit and quit without save;
+:set nu means add numbers before code;
+:set nonu means opposite;
+/ also is command;
+/word means search the word in this file;
+
+learn Shell:
+download Shell and xftp software;
+ifconfig or ipconfig, get the ip;
+run CMD in windows, ping ip;
+if it can receive the byte;
+In Shell or xftp software, create a new connect with ip;
+then we can edit in windows or download files from linux site;
